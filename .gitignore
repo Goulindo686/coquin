@@ -1,0 +1,12 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Vite/Tailwind build
+dist/
+.vite/
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+.vscode/
